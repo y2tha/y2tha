@@ -51,7 +51,7 @@ keys = [
         background=backgroundColor,
         foreground=foregroundColor,
         selected_foreground=colors[2],
-        selected_background=backgroundColor,
+        selected_background=foregroundColorTwo,
     ))),
 
     Key([mod, "shift"], 'w', lazy.run_extension(WindowList(
