@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @y2tha
-- 👀 I’m interested in learning linux customize desktop . I am currently on i3 desktop
-- 🌱 I’m currently learning scripting language.
-- 💞️ I’m looking to collaborate on any scripting language program , c++ project
+- 👀 I’m interested in learning linux customize desktop . I am currently on qtile desktop
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on any scripting language program , c++ project, python project
 - 📫 How to reach me ...
 
 <!---
